@@ -1,4 +1,1 @@
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<h3 align="left">Hi there ~ 👋  < img align="right" src="https://komarev.com/ghpvc/?username=binisavior&label=Profile%20views&color=0e75b6&style=flat" alt="binisavior" /> </h3>
