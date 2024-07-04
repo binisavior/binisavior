@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=binisavior)
 
-<h3 align="center"> My Github Stats </h3>
+<h3 align="center"> 🧑🏻‍💻 My Github Stats 🧑🏻‍💻 </h3>
 <div align="center">
 
   
