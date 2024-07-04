@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=binisavior)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=binisavior&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=binisavior&fontSize=100)
 
 <h3 align="center"> 🧑🏻‍💻 My Github Stats 🧑🏻‍💻 </h3>
 <div align="center">
